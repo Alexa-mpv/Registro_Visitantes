@@ -19,7 +19,7 @@ Este proyecto es una aplicación web desarrollada en ASP.NET para gestionar el r
 ## Configuración del Proyecto
 
 1. **Base de Datos:**
-   - Ejecutar el script SQL proporcionado (`Registro.sql`) para crear las tablas necesarias (`visitante`, `trabajador`, `historial`).
+   - Ejecutar el script SQL proporcionado (`Registro_tablas.sql`) para crear las tablas necesarias (`visitante`, `trabajador`, `historial`).
 
 2. **Configuración de la Conexión a la Base de Datos:**
    - Modificar la cadena de conexión en la clase `ConexionBD` según las configuraciones específicas de tu entorno.
